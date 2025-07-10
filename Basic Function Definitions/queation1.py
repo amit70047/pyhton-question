@@ -1,2 +1,2 @@
-def greet_user():
-    print("Hello welcome to Python programming")
+a = input("Enter your name: ")
+print(f"Hello {a}, welcome to Python programming")
