@@ -1,3 +1,12 @@
+# Create a module file called math_utils.py and implement the following functions:
+
+# add(a, b)
+
+# subtract(a, b)
+
+# multiply(a, b)
+
+# divide(a, b) (handle division by zero)
 
 a = 10
 b = 5
